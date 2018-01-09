@@ -11,7 +11,7 @@ OpenCC-Java是用Java所寫, 使用由BYVoid(byvoid.kcp@gmail.com)所開發的Op
 
 Add clj-opencc dependence:
 
-[![Clojars Project](https://img.shields.io/clojars/v/defclass/clj-opencc.svg)](https://clojars.org/defclass/clj-opencc)
+`[defclass/clj-opencc "0.1.0-SNAPSHOT"]`
 
 Examples:
 
